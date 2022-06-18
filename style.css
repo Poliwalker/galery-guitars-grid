@@ -13,6 +13,7 @@ body{
 header{
     width: 100%;
     margin-top: 10px;
+    max-width: 100%
 }
 
 h1{
@@ -29,7 +30,8 @@ h1{
     grid-template-rows: 35fr 35fr 35fr;
     gap: 20px;
     height: 90vh;
-    padding:1rem 20rem 6rem;
+    padding:1rem 5rem 6rem;
+   
     ;
 }
 
